@@ -1,0 +1,25 @@
+{
+  "lastSession": {
+    "windows": [
+      {
+        "id": "main",
+        "tabs": [
+          {
+            "id": "tab-home",
+            "title": "HyperGX Home",
+            "url": "hyper://home",
+            "pinned": true,
+            "isActive": true
+          },
+          {
+            "id": "tab-docs",
+            "title": "Electron",
+            "url": "https://www.electronjs.org",
+            "pinned": false,
+            "isActive": false
+          }
+        ]
+      }
+    ]
+  }
+}

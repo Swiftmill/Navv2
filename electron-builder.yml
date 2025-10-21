@@ -1,0 +1,28 @@
+appId: com.hypergx.browser
+productName: HyperGX
+files:
+  - dist/main/**/*
+  - dist/preload/**/*
+  - dist/renderer/**/*
+  - assets/**/*
+  - data/**/*
+  - package.json
+asar: true
+asarUnpack:
+  - data/**
+win:
+  target:
+    - target: nsis
+      arch: x64
+    - target: portable
+      arch: x64
+  icon: assets/icons/app-icon.ico
+nsis:
+  oneClick: false
+  perMachine: false
+  allowElevation: true
+  allowToChangeInstallationDirectory: true
+extraResources:
+  - from: data
+    to: resources/data
+publish: null

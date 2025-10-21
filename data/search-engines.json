@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hyper",
+    "name": "Hyper Search",
+    "url": "https://search.hypergx.local?q=%s",
+    "shortcut": "!h"
+  },
+  {
+    "id": "google",
+    "name": "Google",
+    "url": "https://www.google.com/search?q=%s",
+    "shortcut": "!g"
+  },
+  {
+    "id": "duckduckgo",
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com/?q=%s",
+    "shortcut": "!ddg"
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai/search?q=%s",
+    "shortcut": "!px"
+  }
+]

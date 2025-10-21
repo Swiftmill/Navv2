@@ -1,0 +1,6 @@
+! HyperGX bundled list (subset for demo)
+||doubleclick.net^
+||googlesyndication.com^
+||ads.twitter.com^
+||facebook.com/tr^
+||taboola.com^

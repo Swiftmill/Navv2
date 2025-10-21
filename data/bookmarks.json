@@ -1,0 +1,7 @@
+[
+  { "id": "1", "title": "HyperGX", "url": "https://hypergx.local/start", "group": "Work" },
+  { "id": "2", "title": "OpenAI", "url": "https://openai.com", "group": "AI" },
+  { "id": "3", "title": "MDN", "url": "https://developer.mozilla.org", "group": "Dev" },
+  { "id": "4", "title": "GitHub", "url": "https://github.com", "group": "Dev" },
+  { "id": "5", "title": "Wikipedia", "url": "https://wikipedia.org", "group": "Knowledge" }
+]
