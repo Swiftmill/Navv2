@@ -1,0 +1,11 @@
+{
+  "theme": "dark",
+  "accentColor": "#7c3aed",
+  "backgroundVideo": "assets/themes/default-loop.webm",
+  "searchEngine": "hyper",
+  "homepage": "hyper://home",
+  "cpuLimit": 70,
+  "ramLimit": 4096,
+  "panelBlur": 18,
+  "panelOpacity": 0.75
+}

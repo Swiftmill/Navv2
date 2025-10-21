@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "dist/preload",
+    "rootDir": "app/preload",
+    "types": ["node"],
+    "composite": true
+  },
+  "include": ["app/preload/**/*"],
+  "exclude": ["node_modules", "dist"]
+}

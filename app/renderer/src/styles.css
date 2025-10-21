@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --hyper-accent: #7c3aed;
+  --hyper-accent-foreground: #ffffff;
+  --hyper-blur: 18px;
+  --hyper-panel-bg: linear-gradient(135deg, rgba(29, 33, 64, 0.65), rgba(12, 12, 24, 0.55));
+}
+
+body {
+  @apply font-sans bg-surface text-white antialiased;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(124, 58, 237, 0.6);
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(12, 12, 24, 0.4);
+}

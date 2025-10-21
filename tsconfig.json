@@ -1,0 +1,8 @@
+{
+  "files": [],
+  "references": [
+    { "path": "tsconfig.main.json" },
+    { "path": "tsconfig.preload.json" },
+    { "path": "app/renderer/tsconfig.json" }
+  ]
+}
